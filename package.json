@@ -1,0 +1,22 @@
+{
+  "name": "nodejs_inclassassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseJCanedo/nodejs_inClassAssignment.git"
+  },
+  "author": "Jose Canedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseJCanedo/nodejs_inClassAssignment/issues"
+  },
+  "homepage": "https://github.com/JoseJCanedo/nodejs_inClassAssignment#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
